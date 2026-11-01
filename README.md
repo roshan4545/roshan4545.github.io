@@ -1,5 +1,5 @@
-Hi, I’m Roshan </br>
-Developer based out of hyderabad </br>
+Hi, I’m Roshan
+Developer based out of hyderabad
 email : malipatelroshan@gmail.com
 
 <!---
